@@ -41,7 +41,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_ignored: mcfunction, html, css, tex, less, dockerfile, batchfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs
+          plugin_languages_ignored: mcfunction, html, css, tex, less, dockerfile, batchfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs, json, jsonnet
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
@@ -80,7 +80,7 @@ jobs:
 
           plugin_wakatime: yes
           plugin_wakatime_days: 7
-          plugin_wakatime_languages_ignored: mcfunction, html, css, tex, less, dockerfile, batchfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs
+          plugin_wakatime_languages_ignored: mcfunction, html, css, tex, less, dockerfile, batchfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs, json, jsonnet
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
