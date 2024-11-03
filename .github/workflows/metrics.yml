@@ -25,7 +25,7 @@ jobs:
           template: classic
           config_octicon: yes
           config_timezone: Asia/Saigon
-          config_order: base.header, base.repositories, lines, isocalendar, languages, notable
+          config_order: base.header, base.repositories, lines, isocalendar, languages, notable, topics
 
           plugin_lines: yes
           plugin_lines_history_limit: 1
@@ -52,8 +52,13 @@ jobs:
 
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_indepth: yes
           plugin_notable_types: commit
+
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+
       - name: 🦑 Personal metrics (right)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -66,17 +71,12 @@ jobs:
           template: classic
           config_octicon: yes
           config_timezone: Asia/Saigon
-          config_order: followup, topics, wakatime, leetcode, achivements
+          config_order: followup, wakatime, leetcode, achivements
 
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
 
           plugin_wakatime: yes
           plugin_wakatime_days: 7
