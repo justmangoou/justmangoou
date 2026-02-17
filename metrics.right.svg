@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="447" class="">
     <defs>
         <style/>
     </defs>
@@ -206,7 +206,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="237.9551139402094" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="237.9551139402094" y="0" width="71.31432317273025" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="309.26943711293967" y="0" width="62.621228587693416" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="371.8906657006331" y="0" width="55.24538977729476" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="371.8906657006331" y="0" width="55.24538977729476" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="427.13605547792787" y="0" width="16.23557418620297" height="8" fill="#012456"/>
                     <rect mask="url(#languages-bar)" x="443.37162966413086" y="0" width="11.188738808673602" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="454.56036847280444" y="0" width="5.272990736428091" height="8" fill="#f1e05a"/>
@@ -274,7 +274,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Rust
                             </div>
@@ -317,7 +317,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
                         </div>
                     </section>
                 </div>
