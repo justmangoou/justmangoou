@@ -197,20 +197,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.48mb of code in 302 edited files across 33 commits</small>
+                <small>estimation from 1.48mb of code in 305 edited files across 34 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.46134227441382" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="255.46134227441382" y="0" width="65.69183464297916" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="321.15317691739295" y="0" width="57.684111837662186" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="378.83728875505517" y="0" width="50.889791118773886" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="429.72707987382904" y="0" width="14.955546197789626" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="444.68262607161864" y="0" width="10.30660808352071" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="454.98923415513934" y="0" width="4.85726317127625" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.8464973264156" y="0" width="0.153502673584351" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.60912093495935" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="255.60912093495935" y="0" width="65.6443724593496" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="321.2534933943089" y="0" width="57.64243521341463" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="378.8959286077236" y="0" width="50.85302337398374" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="429.74895198170736" y="0" width="14.944740853658535" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="444.6936928353659" y="0" width="10.299161585365853" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="454.9928544207317" y="0" width="4.8537538109756095" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.8466082317073" y="0" width="0.15339176829268295" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                                 C
                             </div>
                             <small>
-                                <div>55.54%</div>
+                                <div>55.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -233,7 +233,7 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>12.54%</div>
+                                <div>12.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -268,7 +268,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>14.28%</div>
+                                <div>14.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -317,7 +317,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
